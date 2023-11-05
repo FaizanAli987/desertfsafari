@@ -17,7 +17,7 @@
 #about .content h3, #about .content h2 {
 	text-align:left;
 }
-.inner-content h3 { font-size:14px; color:#1d5d9b; }
+.inner-content h3 { font-size:14px; color:#bf1e2d; }
 #services .box {
 	height:100%;
 }
@@ -75,13 +75,13 @@ address span {
     left: 50%;
     transform: translateX(-50%);
 	color: #fff;
-	background:#1d5d9b;
-	border:2px solid #1d5d9b;
+	background:#bf1e2d;
+	border:2px solid #bf1e2d;
 }
 .btn-nrml:hover {
 	background:none;
-	color:#1d5d9b;
-	border:2px solid #1d5d9b;
+	color:#bf1e2d;
+	border:2px solid #bf1e2d;
 }
 .box .btn-nrml {
 	position:absolute;
@@ -91,7 +91,7 @@ address span {
 
 .listnone { list-style-type:none; margin:0; padding:0; font-size:14px; }
 .listnone li { margin:5px; }
-#intro.innerBanner { height:25vh; }
+#intro.innerBanner { height:40vh; }
 .innerBanner .owl-carousel .owl-item { max-height:250px; }
 
 .breadcrumb {    background-color: #fcf7f3;}
@@ -102,7 +102,7 @@ address span {
 
 .fs-14 { font-size:14px; }
 .breadcrumb div a {
-    color: #ba5727;
+    color: #bf1e2d;
 }
 
 .faqFont {font-family: "Montserrat", sans-serif;
