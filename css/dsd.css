@@ -62,8 +62,21 @@ address span {
 #services .box {
 	padding:0 0 15px 0;
 }
+.center{
+	text-align:center !important;
+}
+.box ul{
+	list-style: none;
+	padding:  10px;
+}
+.box ul li{
+	display: flex;
+	gap: 8px;
+	align-items: baseline;
+	margin-bottom: 5px;
+}
 .btn-nrml {
-	font-family: "Raleway", sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 15px;
 	font-weight: bold;
 	letter-spacing: 1px;
@@ -115,4 +128,10 @@ address span {
   font-size: 13px;
   margin: 0 0 0 20px;
   padding: 0;
+}
+.headd{
+	text-align: center !important;
+	font-size: 30px !important;
+    font-weight: 800 !important;
+    color: #000 !important;
 }
